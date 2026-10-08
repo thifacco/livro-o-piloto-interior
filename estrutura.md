@@ -1,4 +1,4 @@
-# O Piloto Interior: esboço de estrutura (versão 0.1)
+# O Piloto Interior: esboço de estrutura (versão 0.2)
 
 > Esboço inicial montado a partir da apresentação do Tiago. Serve de mapa para encaixar as resenhas que ele já tem; nomes e ordem vão mudar quando o material chegar.
 
@@ -13,25 +13,27 @@ Um ano, 15.000 km entre a Rodovia dos Bandeirantes e a Marginal Pinheiros, sempr
 ## Arco narrativo (jornada em quatro partes)
 
 ### Parte I · O medo (o ponto de partida)
-1. **Prólogo: o primeiro dia na Bandeirantes.** A cena de abertura: o coração acelerado, os caminhões, a decisão de ir mesmo assim.
-2. **Por que eu precisava fazer esse trajeto.** O contexto da vida, o que estava em jogo.
-3. **Anatomia do medo.** O que exatamente assustava: velocidade, corredor, a imprevisibilidade dos outros.
+1. **A janela do ônibus.** ✍️ *rascunho 0.1 em capitulos/01-a-janela-do-onibus.md (Resenha 01)*. Terças e quartas de ônibus Limeira–São Paulo, a Tiger parada na garagem, o assalto de bicicleta três anos antes, e a revelação na Marginal Tietê: o medo não era do roubo, era da impotência.
+2. **O primeiro dia na Bandeirantes.** A primeira viagem de moto: o coração acelerado, os caminhões, a decisão de ir mesmo assim. *(aguardando material)*
+3. **Anatomia do medo.** O que ainda assustava na estrada: velocidade, corredor, a imprevisibilidade dos outros. *(pode ser absorvido pelos capítulos 1 e 2)*
 
 ### Parte II · O observador (aprender a olhar)
-4. **O que a estrada me mostrou sobre os outros.** Comportamentos no trânsito: pressa, raiva, distração, gentileza.
-5. **O que a estrada me mostrou sobre mim.** Observar os próprios pensamentos enquanto pilota.
-6. **A Marginal no horário de pico.** Um capítulo-cenário: o caos como professor.
+4. **Faça as pazes com a estrada.** *(título do Tiago, nasceu na Resenha 01)* Parar de ver a estrada como inimiga.
+5. **Todo motociclista é um irmão.** *(título do Tiago, nasceu na Resenha 01)* Os mesmos motociclistas que o medo via como ameaça, vistos como irmãos.
+6. **O que a estrada me mostrou sobre os outros.** Comportamentos no trânsito: pressa, raiva, distração, gentileza.
+7. **O que a estrada me mostrou sobre mim.** Observar os próprios pensamentos enquanto pilota.
+8. **A Marginal no horário de pico.** Um capítulo-cenário: o caos como professor.
 
 ### Parte III · A prática (construir a mente forte)
-7. **Meditar antes de girar a chave.** Como começou o ritual e o que mudou.
-8. **Foco: a arte de estar só aqui.** Atenção plena aplicada à pilotagem.
-9. **Resiliência: os dias ruins.** Chuva, cansaço, quase-acidentes, e voltar no dia seguinte.
-10. **Pilotagem segura como filosofia.** Segurança não como regra, mas como respeito pela própria vida.
+9. **Meditar antes de girar a chave.** Como começou o ritual e o que mudou.
+10. **Foco: a arte de estar só aqui.** Atenção plena aplicada à pilotagem.
+11. **Resiliência: os dias ruins.** Chuva, cansaço, quase-acidentes, e voltar no dia seguinte.
+12. **Pilotagem segura como filosofia.** Segurança não como regra, mas como respeito pela própria vida.
 
 ### Parte IV · O Piloto Interior (a transformação)
-11. **15.000 km depois.** Quem chegou ao fim do ano não é quem começou.
-12. **Levando a estrada para a vida.** Como a mente forte vale fora da moto.
-13. **Epílogo: para você que vai sair de casa amanhã.** Um convite ao leitor.
+13. **15.000 km depois.** Quem chegou ao fim do ano não é quem começou.
+14. **Levando a estrada para a vida.** Como a mente forte vale fora da moto.
+15. **Epílogo: para você que vai sair de casa amanhã.** Um convite ao leitor.
 
 **Apêndice (opcional):** o ritual de meditação pré-pilotagem passo a passo; checklist do piloto interior.
 
@@ -41,7 +43,7 @@ Um ano, 15.000 km entre a Rodovia dos Bandeirantes e a Marginal Pinheiros, sempr
 - Fecha com uma **lição prática** curta, que o leitor pode levar.
 
 ## Próximos passos
-1. Receber as resenhas e ideias soltas do Tiago.
+1. Receber as resenhas e ideias soltas do Tiago. *(Resenha 01 recebida em 08/10/2026)*
 2. Encaixar cada resenha neste mapa (ou ajustar o mapa a elas).
 3. Escolher um capítulo-piloto e desenvolver juntos até virar história.
 4. Definir tom e voz (primeira pessoa, conversa com o leitor).
