@@ -16,7 +16,7 @@
 
 ## O que falta (perguntas para o Tiago)
 1. **A cena da decisão.** A resenha termina com a revelação, mas não com o primeiro dia de moto. Quando foi? Como foi tirar a Tiger da garagem?
-2. Horário de saída do ônibus e distância Limeira–Jabaquara, para dar concretude.
+2. ~~Horário de saída do ônibus e distância Limeira–Jabaquara~~ Respondido em 09/10: 5h40 e 173 km, já no rascunho.
 3. Segurança: o livro vai ser público. Você se sente confortável citando Limeira e o Jabaquara? Eu manteria, mas a decisão é sua.
 4. O "jailbreak" no texto original: você quis dizer travar/bloquear acessos (o que usei), certo?
 

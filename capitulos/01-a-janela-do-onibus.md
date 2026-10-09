@@ -4,9 +4,9 @@
 
 ---
 
-Toda terça e toda quarta-feira, religiosamente, eu atravessava duzentos quilômetros [Tiago: confirmar a distância Limeira–Jabaquara] de janela fechada.
+Toda terça e toda quarta-feira, religiosamente, eu atravessava 173 quilômetros de janela fechada.
 
-O ônibus saía de Limeira ainda de madrugada [Tiago: horário?] e me deixava na Rodoviária do Tietê, de onde eu seguia até o Jabaquara. Eu era engenheiro de software recém-contratado pelo maior banco da América Latina, em regime híbrido, desde 23 de julho de 2025. Uma conquista. E, ao mesmo tempo, uma rotina que começou a pesar já nas primeiras semanas.
+O ônibus saía de Limeira às 5h40, ainda de madrugada, e me deixava na Rodoviária do Tietê, de onde eu seguia até o Jabaquara. Eu era engenheiro de software recém-contratado pelo maior banco da América Latina, em regime híbrido, desde 23 de julho de 2025. Uma conquista. E, ao mesmo tempo, uma rotina que começou a pesar já nas primeiras semanas.
 
 Quem viaja de ônibus sabe: o tédio se instala, a concentração não vem, o livro aberto no colo fica três páginas no mesmo parágrafo. Mas o que mais me incomodava não era o tédio. Era a culpa. Na garagem de casa, parada, estava a minha Triumph Tiger Sport 1050. Com seguro contratado. Pronta para rodar. E eu ali, dentro do ônibus, porque tinha medo de ser roubado.
 
