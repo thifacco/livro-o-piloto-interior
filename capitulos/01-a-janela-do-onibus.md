@@ -72,7 +72,7 @@ A resposta veio de tudo o que eu já tinha lido, da Seicho-No-Ie e de tantos liv
 
 Ali, dentro do ônibus, nasceram duas ideias que viraram capítulos na minha cabeça antes de virarem capítulos neste livro: *Faça as pazes com a estrada* e *Todo motociclista é um irmão*.
 
-[Tiago: falta a cena que fecha este capítulo. Quando foi a primeira vez que você tirou a Tiger da garagem para ir a São Paulo? O que sentiu na hora de girar a chave? Esse é o momento da decisão que o título da resenha promete.]
+Faltava saber se essas ideias aguentariam o asfalto. Para isso, só havia um jeito: tirar a Tiger da garagem.
 
 ---
 
