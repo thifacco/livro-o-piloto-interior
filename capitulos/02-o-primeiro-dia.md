@@ -6,7 +6,7 @@
 
 Como toda primeira vez, não foi tão bom quanto eu tinha imaginado. Mas, depois que decidi, não consegui mais voltar atrás.
 
-Era 15 de setembro de 2025. [Tiago: 15/09/2025 caiu numa segunda-feira, e seus dias presenciais eram terça e quarta. Foi um dia extra por causa do evento de fim de trimestre? Vale uma frase explicando.]
+Era 15 de setembro de 2025. Uma segunda-feira, fora dos meus dias presenciais. Mas era dia de evento de fim de semestre na empresa, e eu decidi que aquela seria a estreia.
 
 Deixei tudo pronto na noite anterior: a roupa e a bota de pilotagem, as luvas, a mochila do trabalho com o notebook e uma muda de roupa seca, caso chovesse. São Paulo é a famosa terra da garoa.
 
@@ -46,7 +46,7 @@ Então reforcei os meus pensamentos:
 
 Sobrevivi à primeira viagem e cheguei à empresa.
 
-Era dia de festa: encerramento de trimestre, com palestra do Michel Alcoforado. Com sorte, ganhei o sorteio do livro dele, com autógrafo e uma foto ao lado do autor. Depois, trabalho normal, e no almoço a resenha com os colegas, eu animado para contar a minha experiência.
+Era dia de festa: encerramento de semestre, com palestra do Michel Alcoforado. Com sorte, ganhei o sorteio do livro dele, com autógrafo e uma foto ao lado do autor. Depois, trabalho normal, e no almoço a resenha com os colegas, eu animado para contar a minha experiência.
 
 ## A Sinfonia de Beethoven
 
@@ -58,11 +58,11 @@ Mas, no final, ali perto do Villa-Lobos, a paz volta a reinar.
 
 Apelidei esse trecho da rota de **Sinfonia de Beethoven**. Existe uma harmonia escondida no meio daquele caos.
 
-[Tiago: o que é essa harmonia? Se puder, descreva em duas ou três frases o que você percebe ali: o ritmo da fila, os motociclistas abrindo espaço uns para os outros, o som mudando? Esse trecho pode ficar lindo.]
+É a troca de posições entre carros e motos que faz a fila andar em velocidade. Um desviando do outro, sem bater. Nunca vi uma colisão sequer naquele lugar. É como uma dança, com Deus como maestro.
 
 ## O travesseiro
 
-Bandeirantes de novo e, 153 quilômetros depois, eu estava em casa.
+Bandeirantes de novo e, 156 quilômetros depois, eu estava em casa.
 
 Ao deitar a cabeça no travesseiro, só conseguia lembrar da loucura do trajeto. E pensava: como sustentar essa viagem pelos próximos trinta anos, duas vezes por semana?
 
