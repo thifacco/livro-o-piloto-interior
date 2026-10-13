@@ -1,4 +1,4 @@
-# O Piloto Interior: esboço de estrutura (versão 0.3)
+# O Piloto Interior: esboço de estrutura (versão 0.4)
 
 > Esboço inicial montado a partir da apresentação do Tiago. Serve de mapa para encaixar as resenhas que ele já tem; nomes e ordem vão mudar quando o material chegar.
 
@@ -26,7 +26,7 @@ Um ano, 15.000 km entre a Rodovia dos Bandeirantes e a Marginal Pinheiros, sempr
 
 ### Parte III · A prática (construir a mente forte)
 9. **Meditar antes de girar a chave.** Como começou o ritual e o que mudou. A oração da partida (Resenha 02) é a semente.
-10. **Mentalize o caminho, pilote com a mente.** *(título do Tiago, nasceu na Resenha 02)* Como sustentar o trajeto por anos: ensaiar a rota na mente antes de rodar.
+10. **Mentalize o caminho, pilote com a mente.** ✍️ *rascunho 0.1 em capitulos/10-mentalize-o-caminho.md (Resenha 03)*. Taniguchi, James Hunt (Rush) e Senna; a noite anterior; os 3 minutos de olhos fechados percorrendo todo o trajeto até a Praça Masaharu Taniguchi.
 11. **Foco: a arte de estar só aqui.** Atenção plena aplicada à pilotagem.
 12. **Resiliência: os dias ruins.** Chuva, cansaço, quase-acidentes, e voltar no dia seguinte.
 13. **Pilotagem segura como filosofia.** Segurança não como regra, mas como respeito pela própria vida.
@@ -44,7 +44,7 @@ Um ano, 15.000 km entre a Rodovia dos Bandeirantes e a Marginal Pinheiros, sempr
 - Fecha com uma **lição prática** curta, que o leitor pode levar.
 
 ## Próximos passos
-1. Receber as resenhas e ideias soltas do Tiago. *(Resenhas 01 e 02 recebidas em 08 e 09/10/2026)*
+1. Receber as resenhas e ideias soltas do Tiago. *(Resenhas 01 a 03 recebidas entre 08 e 13/10/2026)*
 2. Encaixar cada resenha neste mapa (ou ajustar o mapa a elas).
 3. Escolher um capítulo-piloto e desenvolver juntos até virar história.
 4. Definir tom e voz (primeira pessoa, conversa com o leitor).

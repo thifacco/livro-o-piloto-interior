@@ -1,6 +1,6 @@
 # Resenha 03: Mentalize o caminho, pilote com a mente
 
-> Texto original do Tiago. Parte 1 recebida em 13/10/2026; ele avisou que continua na próxima mensagem. Mantido exatamente como enviado.
+> Texto original do Tiago, recebido em 13/10/2026 em duas partes. Mantido exatamente como enviado. Esclarecimentos do Tiago no mesmo dia: a segunda citação termina em "...concretizar fatos e coisas que desejamos"; são 173 km por trecho (156 km de Bandeirantes + 17 km na cidade).
 
 ## Parte 1
 
@@ -19,3 +19,7 @@ Outro piloto que treinava o poder da visualização com maestria, era ninguém m
 Eu confesso que todas as vezes que preciso ir de moto para São Paulo, eu sinto tensão desde a noite anterior à viagem. Por esse motivo eu passei a treinar o poder da visualização também, trazendo para a minha realidade como o trajeto deveria ser para eu conseguir acalmar meus neurônios e denscansar. Então primeiro eu imagino o sucesso, que consiste em sair de casa e voltar para a casa. Quais são os motivos e razões para eu estar com a minha família ao final do dia, o que levaria para os mais de 350 quilômetros rodados no mesmo dia. No dia da viagem, ao subir na moto e dar a partida, eu coloco o capacete e de olhos fechados percorro todo o caminho mentalmente por 3 minutos até aquecer o motor e zarpar para a estrada. Na hora de voltar pra casa, visualizo o caminho inverso. Ninguém me tira dessa concentração. 
 
 (continuo aqui no próximo chat)
+
+## Parte 2
+
+Ouvindo o motor ligado e com as mãos no guidão, eu concentro meu pensamento engatando a primeira marcha, saindo pela rua de casa, passando a portaria do condomínio, fazendo a curva, parando no semáforo e aguardando o sinal verde. Sigo pelo anel viário, acelero na subida e reduzo nos cruzamentos, paro no segundo semáforo. Sinal verde novamente, entro na Rodovia Limeira - Piracicaba, sigo até a entrada da Rodovia dos Bandeirantes sentido capital. Reduzo a velocidade para entrar na curva, desço em quarta marcha, acelero no acesso e vou em 130 km/h. Passo pela ponte do Rio Piracicaba, pelo Posto Graal 125, Santa Bárbara d'Oeste, Americana e passo o primeiro pedágio em Sumaré. Sigo por Hortolândia, Campinas o segundo pedágio em Itupeva. Passo pelo Hopi Hari, pela Serra do Japy, Posto Graal 56 e então o terceiro pedágio em Cajamar. Reta final passando pelo Rodoanel até a entrada da marginal pelo corredor. Entro no sentido Pinheiros, faixa expressa depois a local. Na marginal passo pelo cebolão, raia da USP, Jóquei (pelo corredor esquerdo) e entro na Avenida dos Bandeirantes. Sigo pela faixa azul a 50 km/h, 4 semáforos, aeroporto de Congonhas, entrada do Jabaquara. Último semáforo na praça Masaharu Taniguchi (que coincidência), curva à direita e entro no estacionamento da empresa. Passo o crachá, abre a cancela, estaciono a moto, desligo o motor e baixo o pezinho. Desço com segurança. Tudo isso em 3 minutos.
