@@ -46,7 +46,7 @@ Ouço o motor ligado. Com as mãos no guidão, engato a primeira. Saio pela rua 
 
 Sigo pelo anel viário. Acelero na subida, reduzo nos cruzamentos, paro no segundo semáforo. Verde de novo.
 
-Entro na Rodovia Limeira–Piracicaba e sigo até o acesso da Bandeirantes, sentido capital. Reduzo para a curva, desço em quarta, acelero no acesso e me acomodo a 130 km/h. [Tiago: veja a nota do editor sobre a velocidade.]
+Entro na Rodovia Limeira–Piracicaba e sigo até o acesso da Bandeirantes, sentido capital. Reduzo para a curva, desço em quarta, acelero no acesso e me acomodo a 120 km/h.
 
 Passo a ponte do Rio Piracicaba. O Graal 125. Santa Bárbara d'Oeste. Americana. Primeiro pedágio, em Sumaré.
 
@@ -54,7 +54,7 @@ Hortolândia. Campinas. Segundo pedágio, em Itupeva.
 
 Hopi Hari. A Serra do Japi. O Graal 56. Terceiro pedágio, em Cajamar.
 
-Reta final, passando pelo Rodoanel, até a entrada da Marginal, já no corredor. Sentido Pinheiros. [Tiago: veja a nota do editor sobre a pista expressa.] O Cebolão. A raia da USP. O Jóquei, pelo corredor da esquerda. Entro na Avenida dos Bandeirantes.
+Reta final, passando pelo Rodoanel, até a entrada da Marginal, já no corredor. Sentido Pinheiros, pela pista local. O Cebolão. A raia da USP. O Jóquei, pelo corredor da esquerda. Entro na Avenida dos Bandeirantes.
 
 Faixa azul, 50 km/h. Quatro semáforos. O Aeroporto de Congonhas. A entrada do Jabaquara.
 

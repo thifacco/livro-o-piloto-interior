@@ -14,8 +14,8 @@
 - O ritual dos 3 minutos é o que torna o capítulo útil para o leitor. Pode virar a "lição para levar" e ir também para o apêndice prático.
 
 ## Pontos da Parte 2
-6. **Velocidade na Bandeirantes:** o texto diz 130 km/h, mas o limite da rodovia é 120 km/h. Num livro sobre pilotagem segura, o leitor (e um crítico) vai notar. Sugiro "120 km/h" ou "na velocidade da via". A decisão é sua; deixei 130 marcado no rascunho.
-7. **Pista expressa:** aqui você escreve "faixa expressa depois a local" na Marginal, mas no Capítulo 2 diz que motos não andam na expressa, só na local. Vale alinhar (talvez o trecho de entrada vindo da Bandeirantes seja diferente?).
+6. ✅ *Decidido em 13/10: 120 km/h.* **Velocidade na Bandeirantes:** o texto diz 130 km/h, mas o limite da rodovia é 120 km/h. Num livro sobre pilotagem segura, o leitor (e um crítico) vai notar. Sugiro "120 km/h" ou "na velocidade da via". A decisão é sua; deixei 130 marcado no rascunho.
+7. ✅ *Decidido em 13/10: faixa expressa removida, só pista local.* **Pista expressa:** aqui você escreve "faixa expressa depois a local" na Marginal, mas no Capítulo 2 diz que motos não andam na expressa, só na local. Vale alinhar (talvez o trecho de entrada vindo da Bandeirantes seja diferente?).
 8. Revisão: Serra do Japi (com i), Cebolão, conta-giros no lugar de hodômetro, "qualidades" no lugar de "faculdades".
 
 ## O que fiz no rascunho
