@@ -23,3 +23,10 @@
 - O trajeto ficou em frases curtas, uma paisagem por linha, para o leitor sentir o ritmo da visualização. Termina com "Abro os olhos. Tudo isso levou três minutos."
 - A **Praça Masaharu Taniguchi** como último semáforo fecha o capítulo de forma perfeita: começa com o mestre e termina na praça dele. Mantive "Que coincidência." sozinha numa linha.
 - A lição "para levar" virou um mini-roteiro do ritual, que também pode ir para o apêndice prático.
+
+## Parte 3 (21/10): a história do Gabriel
+- Entrou no fim do capítulo, em duas seções novas: **"Você estava orando?"** e **Um momento sagrado**, antes da lição para levar.
+- O diálogo virou travessões, para a cena respirar.
+- A quarta-feira e o pezinho baixado na garagem de casa fecham o arco da visualização da volta, que antes era só uma linha ("faço o caminho inverso").
+- **Para checar:** o Gabriel sabe que vai aparecer no livro? Se preferir, uso só "um colega".
+- Troquei "beeline (gps)" por "o GPS" para não citar marca; se quiser manter o nome do app, é só dizer.

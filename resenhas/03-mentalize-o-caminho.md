@@ -23,3 +23,17 @@ Eu confesso que todas as vezes que preciso ir de moto para São Paulo, eu sinto 
 ## Parte 2
 
 Ouvindo o motor ligado e com as mãos no guidão, eu concentro meu pensamento engatando a primeira marcha, saindo pela rua de casa, passando a portaria do condomínio, fazendo a curva, parando no semáforo e aguardando o sinal verde. Sigo pelo anel viário, acelero na subida e reduzo nos cruzamentos, paro no segundo semáforo. Sinal verde novamente, entro na Rodovia Limeira - Piracicaba, sigo até a entrada da Rodovia dos Bandeirantes sentido capital. Reduzo a velocidade para entrar na curva, desço em quarta marcha, acelero no acesso e vou em 130 km/h. Passo pela ponte do Rio Piracicaba, pelo Posto Graal 125, Santa Bárbara d'Oeste, Americana e passo o primeiro pedágio em Sumaré. Sigo por Hortolândia, Campinas o segundo pedágio em Itupeva. Passo pelo Hopi Hari, pela Serra do Japy, Posto Graal 56 e então o terceiro pedágio em Cajamar. Reta final passando pelo Rodoanel até a entrada da marginal pelo corredor. Entro no sentido Pinheiros, faixa expressa depois a local. Na marginal passo pelo cebolão, raia da USP, Jóquei (pelo corredor esquerdo) e entro na Avenida dos Bandeirantes. Sigo pela faixa azul a 50 km/h, 4 semáforos, aeroporto de Congonhas, entrada do Jabaquara. Último semáforo na praça Masaharu Taniguchi (que coincidência), curva à direita e entro no estacionamento da empresa. Passo o crachá, abre a cancela, estaciono a moto, desligo o motor e baixo o pezinho. Desço com segurança. Tudo isso em 3 minutos.
+
+## Parte 3 (recebida em 21/10/2026)
+
+Ainda sobre o capítulo Mentalize o Caminho, lembro de um fato curioso que aconteceu nos últimos dias que estive no Jabaquara. Vou contar a história aqui e você complementa o capítulo mantendo a sintonia da leitura.
+
+No estacionamento da empresa eu sempre procurava estacionar a Tiger próxima às motos dos colegas de andar. Em meio aquela multidão de máquinas, gostava de ficar junto. 
+
+Na hora de ir embora eu levava no mínimo 30 minutos para trocar a calça jeans (code dress da empresa) pela de pilotagem, calçar as botas, vestir a jaqueta, balaclava, luvas, guardar a mochila, programar o beeline (gps) e enfim colocar o capacete, ligar a moto e fazer minha visualização antes de sair.
+
+Numa quarta-feira dessas meu colega também motociclista, o Gabriel, desceu pra pegar sua Royal Enfield Himalayan 450 e me viu ali do lado, já com tudo pronto, moto ligada e sentado nela em profundo estado de meditação. Só abri os olhos no final da visualização, quando enxerguei em minha mente eu chegando em casa e baixando o pezinho da moto na minha garagem.
+
+Ele ficou ali, nos 3 minutos me observando sem entender nada. Quando abri os olhos ele me perguntou: "você estava orando?", respondi com um sorriso: "sim, tipo isso" e rimos por alguns minutos. Quando expliquei pra ele o que era aquilo vi que ele ficou em choque. Dias depois voltamos a falar sobre isso e descobri que ele também visualizava o caminho dele, mas de uma maneira diferente, sem estar próximo a moto. E funcionava do mesmo jeito. Cada motociclista se apega a proteção divina à sua maneira. Isso é maravilhoso, fiquei muito feliz em compartilharmos o mesmo hábito poderoso.
+
+Em outras vezes, em frente à minha casa, notei alguns vizinhos me olhando também nesse momento, não entendendo nada. Alguns até falavam comigo, sem sucesso. Esse momento de olhar profundo é sagrado para mim.

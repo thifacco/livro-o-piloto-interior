@@ -68,6 +68,32 @@ Abro os olhos. Tudo isso levou três minutos.
 
 Na volta, faço o caminho inverso. E, nesses minutos, ninguém me tira dessa concentração.
 
+## "Você estava orando?"
+
+No estacionamento da empresa, eu sempre procurava parar a Tiger perto das motos dos colegas de andar. No meio daquela multidão de máquinas, gostava de ficar junto.
+
+Na hora de ir embora, eu levava no mínimo trinta minutos para me preparar. Trocar a calça jeans do dress code da empresa pela calça de pilotagem. Calçar as botas. Vestir a jaqueta, a balaclava, as luvas. Guardar a mochila. Programar o GPS. E, enfim, colocar o capacete, ligar a moto e fazer a minha visualização antes de sair.
+
+Numa daquelas quartas-feiras, o Gabriel, colega de trabalho e também motociclista, desceu para pegar a sua Royal Enfield Himalayan 450. E me encontrou ali do lado: tudo pronto, moto ligada, eu sentado nela, de olhos fechados, em profundo estado de meditação.
+
+Ele ficou me observando pelos três minutos inteiros, sem entender nada. Só abri os olhos no fim da visualização, quando me vi chegando em casa e baixando o pezinho da moto na minha garagem.
+
+— Você estava orando? — ele perguntou.
+
+— Sim — respondi, sorrindo. — Tipo isso.
+
+E rimos por alguns minutos.
+
+Quando expliquei o que era aquilo, vi que ele ficou em choque. Dias depois, voltamos ao assunto, e descobri que ele também visualizava o caminho. De outro jeito, longe da moto. E funcionava do mesmo modo.
+
+Cada motociclista se apega à proteção divina à sua maneira. Achei isso maravilhoso. Fiquei muito feliz de descobrir que compartilhávamos o mesmo hábito poderoso.
+
+## Um momento sagrado
+
+Outras vezes, em frente de casa, percebi vizinhos me olhando nesse momento, também sem entender nada. Alguns até tentavam puxar conversa, sem sucesso.
+
+Não é falta de educação. É que esses três minutos de olhar profundo são sagrados para mim.
+
 ---
 
 **Para levar com você**
