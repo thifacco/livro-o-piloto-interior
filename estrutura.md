@@ -1,4 +1,4 @@
-# O Piloto Interior: esboço de estrutura (versão 0.4)
+# O Piloto Interior: esboço de estrutura (versão 0.5)
 
 > Esboço inicial montado a partir da apresentação do Tiago. Serve de mapa para encaixar as resenhas que ele já tem; nomes e ordem vão mudar quando o material chegar.
 
@@ -29,7 +29,7 @@ Um ano, 15.000 km entre a Rodovia dos Bandeirantes e a Marginal Pinheiros, sempr
 10. **Mentalize o caminho, pilote com a mente.** ✍️ *rascunho 0.1 em capitulos/10-mentalize-o-caminho.md (Resenha 03)*. Taniguchi, James Hunt (Rush) e Senna; a noite anterior; os 3 minutos de olhos fechados percorrendo todo o trajeto até a Praça Masaharu Taniguchi.
 11. **Foco: a arte de estar só aqui.** Atenção plena aplicada à pilotagem.
 12. **Resiliência: os dias ruins.** Chuva, cansaço, quase-acidentes, e voltar no dia seguinte.
-13. **Pilotagem segura como filosofia.** Segurança não como regra, mas como respeito pela própria vida.
+13. **A máquina é do tamanho do piloto.** ✍️ *rascunho 0.1 em capitulos/13-a-maquina-e-do-tamanho-do-piloto.md (Resenha 04)*. Absorve "Pilotagem segura como filosofia". Do cavalo à máquina, atravessar o caos vs produzir o caos, três conversas no posto, o broche 100%.
 
 ### Parte IV · O Piloto Interior (a transformação)
 14. **15.000 km depois.** Quem chegou ao fim do ano não é quem começou.
@@ -44,7 +44,7 @@ Um ano, 15.000 km entre a Rodovia dos Bandeirantes e a Marginal Pinheiros, sempr
 - Fecha com uma **lição prática** curta, que o leitor pode levar.
 
 ## Próximos passos
-1. Receber as resenhas e ideias soltas do Tiago. *(Resenhas 01 a 03 recebidas entre 08 e 13/10/2026)*
+1. Receber as resenhas e ideias soltas do Tiago. *(Resenhas 01 a 04 recebidas entre 08 e 21/10/2026)*
 2. Encaixar cada resenha neste mapa (ou ajustar o mapa a elas).
 3. Escolher um capítulo-piloto e desenvolver juntos até virar história.
 4. Definir tom e voz (primeira pessoa, conversa com o leitor).
