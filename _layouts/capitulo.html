@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{% assign escritos = "" | split: "" %}
+{% for parte in site.data.sumario %}{% for c in parte.capitulos %}{% if c.arquivo %}{% assign escritos = escritos | push: c %}{% endif %}{% endfor %}{% endfor %}
+{% for c in escritos %}{% if c.arquivo == page.path %}{% assign i = forloop.index0 %}{% endif %}{% endfor %}
+<article class="capitulo">
+  {{ content }}
+</article>
+<nav class="navegacao">
+  {% if i and i > 0 %}{% assign k = i | minus: 1 %}{% assign ant = escritos[k] %}
+  <a class="ant" href="{{ ant.arquivo | replace: '.md', '.html' | prepend: '/' | relative_url }}"><span>Anterior</span>{{ ant.numero }}. {{ ant.titulo }}</a>
+  {% else %}<span></span>{% endif %}
+  {% assign j = i | plus: 1 %}{% assign prox = escritos[j] %}
+  {% if i != nil and prox %}
+  <a class="prox" href="{{ prox.arquivo | replace: '.md', '.html' | prepend: '/' | relative_url }}"><span>Próximo</span>{{ prox.numero }}. {{ prox.titulo }}</a>
+  {% endif %}
+</nav>

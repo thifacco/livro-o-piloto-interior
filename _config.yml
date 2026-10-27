@@ -1,0 +1,35 @@
+title: O Piloto Interior
+description: "Motociclismo e mente forte: 15.000 km entre a Bandeirantes e a Marginal Pinheiros, e o que aconteceu dentro do capacete."
+author: Tiago
+lang: pt-BR
+baseurl: "/livro-o-piloto-interior"
+url: "https://thifacco.github.io"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+
+defaults:
+  - scope:
+      path: "capitulos"
+    values:
+      layout: capitulo
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Material de trabalho que não vai para o site
+exclude:
+  - resenhas/
+  - estrutura.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+optional_front_matter:
+  remove_originals: true

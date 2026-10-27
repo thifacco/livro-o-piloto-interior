@@ -1,0 +1,26 @@
+# Mapa do livro (segue estrutura.md). Para publicar um capítulo novo,
+# coloque o arquivo em capitulos/ e preencha "arquivo" aqui.
+- parte: "I · O medo"
+  capitulos:
+    - { numero: 1, titulo: "A janela do ônibus", arquivo: "capitulos/01-a-janela-do-onibus.md" }
+    - { numero: 2, titulo: "O primeiro dia", arquivo: "capitulos/02-o-primeiro-dia.md" }
+    - { numero: 3, titulo: "Anatomia do medo" }
+- parte: "II · O observador"
+  capitulos:
+    - { numero: 4, titulo: "Faça as pazes com a estrada" }
+    - { numero: 5, titulo: "Todo motociclista é um irmão" }
+    - { numero: 6, titulo: "O que a estrada me mostrou sobre os outros" }
+    - { numero: 7, titulo: "O que a estrada me mostrou sobre mim" }
+    - { numero: 8, titulo: "A Marginal no horário de pico" }
+- parte: "III · A prática"
+  capitulos:
+    - { numero: 9, titulo: "Meditar antes de girar a chave" }
+    - { numero: 10, titulo: "Mentalize o caminho, pilote com a mente", arquivo: "capitulos/10-mentalize-o-caminho.md" }
+    - { numero: 11, titulo: "Foco: a arte de estar só aqui" }
+    - { numero: 12, titulo: "Resiliência: os dias ruins" }
+    - { numero: 13, titulo: "A máquina é do tamanho do piloto", arquivo: "capitulos/13-a-maquina-e-do-tamanho-do-piloto.md" }
+- parte: "IV · O Piloto Interior"
+  capitulos:
+    - { numero: 14, titulo: "15.000 km depois" }
+    - { numero: 15, titulo: "Levando a estrada para a vida" }
+    - { numero: 16, titulo: "Epílogo: para você que vai sair de casa amanhã" }
