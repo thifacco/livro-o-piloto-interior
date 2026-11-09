@@ -74,7 +74,7 @@ Foi assim já na primeira noite, depois do primeiro dia de pilotagem, quando a p
 
 Nesses momentos eu sinto que preciso reconstruir, de novo, a minha conexão com o divino. E, principalmente, com a minha própria mente.
 
-## Não vibro nessa frequência
+## É seguro
 
 Refleti muito sobre esses gatilhos e encontrei mais um hábito poderoso para enfrentá-los: a prática da afirmação.
 
