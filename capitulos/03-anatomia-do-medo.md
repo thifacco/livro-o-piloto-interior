@@ -82,7 +82,7 @@ Há um capítulo no *Livro dos Jovens* [Tiago: qual capítulo?] em que o mestre 
 
 Pois bem. A partir daí, quando alguém fazia o gesto do revólver e perguntava se eu não tinha medo, a minha resposta passou a ser uma só:
 
-— Eu não tenho medo. Não vibro nessa frequência.
+— Eu não tenho medo. É seguro.
 
 E, de fato, nunca vi nada de ruim acontecer no meu trajeto. Pelo menos não perto de mim.
 
