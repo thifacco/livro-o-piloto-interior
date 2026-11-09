@@ -16,6 +16,6 @@ Fica como **Capítulo 3** e deixa de ser candidato a sair. Os capítulos 1 e 2 c
 2. **"Já mencionei no capítulo 1":** no livro, o Capítulo 1 fala da Seicho-No-Ie, mas o *Livro dos Jovens* aparece pela primeira vez no Capítulo 10. Por isso não mantive a referência.
 3. **Alex Dias Ribeiro / Brasil sobre Rodas:** confirmar título do documentário, ano e, se possível, a frase exata (está entre aspas, então precisa ser literal).
 4. **"Quem diz que moto é perigoso não pilota":** num livro de pilotagem segura, a frase sozinha pode soar como se o risco não existisse. Acrescentei "Não é que o risco não exista... é um medo emprestado, feito de manchete, e não de estrada." Veja se concorda.
-5. ✅ *Respondido em 09/11: voltou de fato para o ônibus, depois da história do amigo mecânico (cliente com uma GS 1250, três tiros no pneu na alça de acesso da Bandeirantes, sentido interior). Entrou no texto. Falta: quanto tempo a Tiger ficou parada, e se o "dia seguinte" está certo.*
+5. ✅ *Respondido em 09/11: voltou de fato para o ônibus, depois da história do amigo mecânico (cliente com uma GS 1250, três tiros no pneu na alça de acesso da Bandeirantes, sentido interior). Entrou no texto. Tiger parada por 3 semanas. Falta: confirmar se o "dia seguinte" está certo.*
 6. **"Cuidado, hein":** inventei esse exemplo de comentário nas fotos da Tiger. Troque por um comentário real, se lembrar de algum.
 7. **"Nunca vi nada de ruim acontecer... pelo menos perto de mim":** mantive. É depoimento pessoal e honesto; o "pelo menos perto de mim" evita parecer promessa ao leitor.

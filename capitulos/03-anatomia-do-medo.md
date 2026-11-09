@@ -46,7 +46,7 @@ A vez que mais me marcou foi uma conversa com um amigo mecânico, motociclista t
 
 Era exatamente o meu caminho de volta para casa.
 
-No dia seguinte, eu estava de novo na rodoviária de Limeira, de madrugada, esperando o ônibus. A Tiger ficou na garagem [Tiago: por quanto tempo? Dias, semanas?], até eu conseguir me recompor daquele medo. E só voltei a montar nela depois de muito esforço mental.
+No dia seguinte, eu estava de novo na rodoviária de Limeira, de madrugada, esperando o ônibus. A Tiger ficou três semanas na garagem, até eu conseguir me recompor daquele medo. E só voltei a montar nela depois de muito esforço mental.
 
 Com o tempo percebi uma coisa: quase sempre, quem diz que moto é perigoso não pilota. Não é que o risco não exista. Ele existe, e é por isso que este livro fala tanto de pilotagem segura. Mas o medo de quem nunca subiu numa moto é um medo emprestado, feito de manchete, e não de estrada. E eu estava aceitando esse empréstimo de graça, em toda conversa.
 
