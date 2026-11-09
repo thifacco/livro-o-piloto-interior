@@ -70,7 +70,7 @@ Na série documental *Brasil na Pista* (2020), no terceiro episódio da primeira
 
 Isso é muito verdadeiro. Na pista, no corredor, não há espaço para o medo: há o retrovisor, o freio, a próxima brecha. É depois, deitado, que o filme passa. A Ranger que trocou de faixa num piscar de olhos, a colisão que não aconteceu por poucos milímetros. Confesso que às vezes sinto espasmos no corpo só de lembrar dos reflexos da pilotagem do dia.
 
-Foi assim já na primeira noite, depois do primeiro dia de Tiger, quando a pergunta não me deixava dormir. E voltou muitas outras vezes.
+Foi assim já na primeira noite, depois do primeiro dia de pilotagem, quando a pergunta não me deixava dormir. E voltou muitas outras vezes.
 
 Nesses momentos eu sinto que preciso reconstruir, de novo, a minha conexão com o divino. E, principalmente, com a minha própria mente.
 
