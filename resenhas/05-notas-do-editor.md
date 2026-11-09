@@ -19,3 +19,8 @@ Fica como **Capítulo 3** e deixa de ser candidato a sair. Os capítulos 1 e 2 c
 5. ✅ *Respondido em 09/11: voltou de fato para o ônibus, depois da história do amigo mecânico (cliente com uma GS 1250, três tiros no pneu na alça de acesso da Bandeirantes, sentido interior). Entrou no texto. Tiger parada por 3 semanas. Falta: confirmar se o "dia seguinte" está certo.*
 6. **"Cuidado, hein":** inventei esse exemplo de comentário nas fotos da Tiger. Troque por um comentário real, se lembrar de algum.
 7. **"Nunca vi nada de ruim acontecer... pelo menos perto de mim":** mantive. É depoimento pessoal e honesto; o "pelo menos perto de mim" evita parecer promessa ao leitor.
+
+## Fecho (complemento de 09/11)
+- Nova seção **"Em voz alta"**: a afirmação completa em itálico, a gratidão, o "meu caro leitor" e a liberdade de escolher.
+- Ponte para o Capítulo 4: como o Capítulo 1 já conta que "Faça as pazes com a estrada" nasceu na janela do ônibus, aqui a ideia "ganha corpo" em vez de nascer de novo.
+- Acrescentei "quase 350 quilômetros por dia" e a lembrança do pai da escola, do feed e do travesseiro, para amarrar o fim ao começo do capítulo.

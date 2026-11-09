@@ -90,8 +90,24 @@ Isso não quer dizer que o medo tenha desaparecido. Ele continua existindo, como
 
 Mas o trabalho não para por aqui. A afirmação precisa ser confirmada todos os dias, naquilo que você realmente acredita. Quando você começa a praticá-la, não pode dizer o contrário, nem por brincadeira. Nada de "qualquer dia eu caio" ou "um dia vão me levar a moto" em tom de piada. Acreditar em algo poderoso exige manter o pensamento correto o tempo todo.
 
+## Em voz alta
+
+Por isso, todos os dias, eu reafirmo. E não basta pensar: é preciso dizer as palavras em voz alta, para que o corpo também escute.
+
+*Pilotar é seguro. Eu não tenho medo. São Paulo é uma cidade próspera, e eu tenho o meu lugar nela. Eu me sinto onde devo estar.*
+
+Depois, agradeço. Do fundo do coração. Porque essa é a minha oportunidade do momento, e eu a agarro com todas as minhas forças e cuido dela para que dê frutos.
+
+Meu caro leitor, você não leu nenhuma mentira aqui. Eu não estou fingindo que o perigo não existe, nem pedindo que você finja. A afirmação é uma tática, e das boas: ela mantém a mente firme e inabalável diante de um objetivo.
+
+E o meu objetivo era claro. Ir e voltar, quase 350 quilômetros por dia, para entregar o máximo da minha capacidade de trabalho.
+
+Sempre há escolhas. Eu poderia ter ficado no ônibus. Poderia ter dado ouvidos ao pai da escola, ao feed, ao filme do travesseiro. Mas tomar a minha própria decisão, sobre o que fazer e onde fazer, para mim é isso que se chama liberdade.
+
+E foi dessa liberdade que uma ideia antiga ganhou corpo. Ela tinha nascido lá atrás, na janela do ônibus, e agora pedia para virar caminho: era hora de fazer as pazes com a estrada.
+
 ---
 
 **Para levar com você**
 
-O medo não precisa da estrada para te alcançar: ele entra pelas conversas, pelas redes sociais e pelo travesseiro. Descubra quais são as suas portas, feche as que puder, e escolha uma frase curta para dizer quando alguma delas abrir. Diga essa frase todos os dias, e nunca o contrário, nem de brincadeira.
+O medo não precisa da estrada para te alcançar: ele entra pelas conversas, pelas redes sociais e pelo travesseiro. Descubra quais são as suas portas, feche as que puder, e escolha uma frase curta para dizer quando alguma delas abrir. Diga essa frase todos os dias, em voz alta, e nunca o contrário, nem de brincadeira.
