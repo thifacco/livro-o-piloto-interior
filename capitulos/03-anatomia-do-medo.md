@@ -64,7 +64,7 @@ E a porta abre para os dois lados. Sempre me surpreende o que acontece quando po
 
 ## A terceira porta: o travesseiro
 
-No documentário *Brasil sobre Rodas* [Tiago: confirmar título e ano], Alex Dias Ribeiro, ex-piloto da Fórmula 1, diz uma frase que nunca mais esqueci:
+Na série documental *Brasil na Pista*, no terceiro episódio da primeira temporada, Alex Dias Ribeiro, ex-piloto da Fórmula 1, diz uma frase que nunca mais esqueci:
 
 **"O medo a gente não tem na hora, somos acostumados a lidar com ele. O medo vem à noite, na hora que coloca a cabeça no travesseiro e passa o filme do que aconteceu naquela situação."**
 
