@@ -40,7 +40,13 @@ E quando eu acrescentava que ia de moto, a próxima pergunta era sempre a mesma:
 
 Quase sempre acompanhada do gesto: a mão em forma de revólver.
 
-Quem leu o primeiro capítulo sabe o que aquele gesto fazia comigo. Responder era difícil. E o que vinha depois, nessas conversas, disparava todos os meus gatilhos. Muitas vezes essas conversas me fizeram regredir, na cabeça, para o ônibus das 5h40. Eu só voltava a montar na Tiger depois de muito esforço mental. [Tiago: houve alguma semana em que você voltou de fato para o ônibus por causa disso? Se houve, vale uma frase aqui.]
+Quem leu o primeiro capítulo sabe o que aquele gesto fazia comigo. Responder era difícil. E o que vinha depois, nessas conversas, disparava todos os meus gatilhos. Muitas vezes essas conversas me fizeram regredir. E não estou falando só da cabeça: eu voltei, de fato, para o ônibus das 5h40.
+
+A vez que mais me marcou foi uma conversa com um amigo mecânico, motociclista também. Ele me contou o caso de um cliente que fugiu de um assalto pilotando uma BMW GS 1250, na alça de acesso da Bandeirantes, sentido interior, ainda em São Paulo. Levou três tiros no pneu.
+
+Era exatamente o meu caminho de volta para casa.
+
+No dia seguinte, eu estava de novo na rodoviária de Limeira, de madrugada, esperando o ônibus. A Tiger ficou na garagem [Tiago: por quanto tempo? Dias, semanas?], até eu conseguir me recompor daquele medo. E só voltei a montar nela depois de muito esforço mental.
 
 Com o tempo percebi uma coisa: quase sempre, quem diz que moto é perigoso não pilota. Não é que o risco não exista. Ele existe, e é por isso que este livro fala tanto de pilotagem segura. Mas o medo de quem nunca subiu numa moto é um medo emprestado, feito de manchete, e não de estrada. E eu estava aceitando esse empréstimo de graça, em toda conversa.
 
