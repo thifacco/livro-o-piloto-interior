@@ -4,7 +4,7 @@
   capitulos:
     - { numero: 1, titulo: "A janela do ônibus", arquivo: "capitulos/01-a-janela-do-onibus.md" }
     - { numero: 2, titulo: "O primeiro dia", arquivo: "capitulos/02-o-primeiro-dia.md" }
-    - { numero: 3, titulo: "Anatomia do medo" }
+    - { numero: 3, titulo: "Anatomia do medo", arquivo: "capitulos/03-anatomia-do-medo.md" }
 - parte: "II · O observador"
   capitulos:
     - { numero: 4, titulo: "Faça as pazes com a estrada" }
