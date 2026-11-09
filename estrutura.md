@@ -15,7 +15,7 @@ Um ano, 15.000 km entre a Rodovia dos Bandeirantes e a Marginal Pinheiros, sempr
 ### Parte I · O medo (o ponto de partida)
 1. **A janela do ônibus.** ✍️ *rascunho 0.1 em capitulos/01-a-janela-do-onibus.md (Resenha 01)*. Terças e quartas de ônibus Limeira–São Paulo, a Tiger parada na garagem, o assalto de bicicleta três anos antes, e a revelação na Marginal Tietê: o medo não era do roubo, era da impotência.
 2. **O primeiro dia.** ✍️ *rascunho 0.1 em capitulos/02-o-primeiro-dia.md (Resenha 02)*. 15/09/2025: a oração da partida, o uhuuul no capacete, a primeira fechada no corredor, a palestra e o sorteio, a volta pela Marginal às 18h15 ("Sinfonia de Beethoven") e a pergunta no travesseiro.
-3. **Anatomia do medo.** ✍️ *rascunho 0.1 em capitulos/03-anatomia-do-medo.md (Resenha 05)*. O medo fora da estrada e suas três portas: as conversas (o gesto do revólver, o pai na escola: "você pilota?"), a tela (o algoritmo e o caos do feed) e o travesseiro (Alex Dias Ribeiro). Fecha com a afirmação "não vibro nessa frequência".
+3. **Anatomia do medo.** ✍️ *rascunho 0.1 em capitulos/03-anatomia-do-medo.md (Resenha 05)*. O medo fora da estrada e suas três portas: as conversas (o gesto do revólver, o pai na escola: "você pilota?"), as redes sociais (o algoritmo e o caos do feed) e o travesseiro (Alex Dias Ribeiro). Fecha com a afirmação "não vibro nessa frequência".
 
 ### Parte II · O observador (aprender a olhar)
 4. **Faça as pazes com a estrada.** *(título do Tiago, nasceu na Resenha 01)* Parar de ver a estrada como inimiga.

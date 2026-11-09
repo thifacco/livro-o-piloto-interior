@@ -50,9 +50,9 @@ No dia seguinte, eu estava de novo na rodoviária de Limeira, de madrugada, espe
 
 Com o tempo percebi uma coisa: quase sempre, quem diz que moto é perigoso não pilota. Não é que o risco não exista. Ele existe, e é por isso que este livro fala tanto de pilotagem segura. Mas o medo de quem nunca subiu numa moto é um medo emprestado, feito de manchete, e não de estrada. E eu estava aceitando esse empréstimo de graça, em toda conversa.
 
-## A segunda porta: a tela
+## A segunda porta: as redes sociais
 
-A outra porta ficava no bolso.
+A outra porta ficava no bolso: as redes sociais.
 
 Sou do tempo em que a gente tinha o controle do que via: seguia só os conhecidos, e não existiam algoritmos de recomendação. Hoje, os posts que o algoritmo injeta no feed são, na minha opinião, uma invasão perigosa. O algoritmo não sabe se o conteúdo é bom ou ruim. Ele deixa claro quem manda, e que você é o produto. Nada mais.
 
@@ -94,4 +94,4 @@ Mas o trabalho não para por aqui. A afirmação precisa ser confirmada todos os
 
 **Para levar com você**
 
-O medo não precisa da estrada para te alcançar: ele entra pelas conversas, pela tela e pelo travesseiro. Descubra quais são as suas portas, feche as que puder, e escolha uma frase curta para dizer quando alguma delas abrir. Diga essa frase todos os dias, e nunca o contrário, nem de brincadeira.
+O medo não precisa da estrada para te alcançar: ele entra pelas conversas, pelas redes sociais e pelo travesseiro. Descubra quais são as suas portas, feche as que puder, e escolha uma frase curta para dizer quando alguma delas abrir. Diga essa frase todos os dias, e nunca o contrário, nem de brincadeira.
