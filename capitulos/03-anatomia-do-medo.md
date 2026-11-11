@@ -62,6 +62,12 @@ Há também os irmãos que criam bom conteúdo sobre motociclismo. Os que oferec
 
 E a porta abre para os dois lados. Sempre me surpreende o que acontece quando posto uma foto da Tiger nas redes. As pessoas não veem uma moto bonita. Sentem medo, aflição, mandam "cuidado, hein". Não por causa de mim, mas por tudo o que já ouviram e assistiram sobre motociclistas no trânsito. O medo que entra pela tela delas volta para mim em forma de comentário.
 
+Se insisto nesse cuidado com as redes, é para provocar a sua atenção. Para que você julgue melhor os assuntos que te atingem todos os dias. Fomos todos habituados a consumir conteúdo sem moderação e a aceitar, passivamente, as invasões do algoritmo na nossa vida.
+
+Só que a sua mente subconsciente está sendo moldada o tempo todo pelo que você pensa, acredita e vive repetidamente. E esse pensamento se forma com o que você assiste e ouve, prestando atenção ou não. O vídeo de acidente que passou rápido no feed também ficou.
+
+Por isso, caro leitor, eu te convido a fazer a curadoria do conteúdo a que você se expõe. Escolha quem você segue como escolhe a sua faixa na estrada.
+
 ## A terceira porta: o travesseiro
 
 Na série documental *Brasil na Pista* (2020), no terceiro episódio da primeira temporada, Alex Dias Ribeiro, ex-piloto da Fórmula 1, diz uma frase que nunca mais esqueci:

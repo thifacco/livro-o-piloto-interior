@@ -19,3 +19,9 @@ Refleti muito sobre esses gatilhos e encontrei mais um hábito poderoso para ven
 **Complemento recebido em 09/11/2026 (fecho do capítulo):**
 
 É preciso reafirmar todos os dias os pensamentos positivos e dizer as palavras em voz alta: "pilotar é seguro, não tenho medo, São Paulo é uma cidade próspera e eu tenho meu lugar nela, eu me sinto onde devo estar". E agradecer do fundo do coração, pois essa é a minha oportunidade do momento, eu agarro ela com as minhas forças e cuido para ela prosperar frutos. Meu caro leitor, você não leu nenhuma mentira aqui, isso é apenas uma tática para manter a mente firme e inabalável perante a um objetivo. E o meu era ir e voltar para executar minha capacidade máxima de trabalho. Sempre há escolhas, mas tomar a própria decisão do que e onde fazer, pra mim é liberdade. E baseado nisso, outro capítulo se desenvolveu em minha mente: "Faça as pazes com a estrada".
+
+---
+
+**Complemento recebido em 11/11/2026 (seção das redes sociais):**
+
+A minha preocupação em citar esse tipo de cuidado nas redes para quem pilota é provocar a sua atenção para julgar melhor os assuntos te atingem diariamente. Todos fomos habituados a consumir conteúdo sem moderação e aceitar passivamente as invasões do algoritmo em nossas vidas. A sua mente subconsciente está sendo moldada o tempo todo pelo que você pensa, acredita e vivencia repetidamente. Esse pensamento é formado com o que você assiste e ouve, prestando atenção ou não. Por isso caro leitor, eu estimulo você a fazer uma auto curadoria do conteúdo que você está exposto.
