@@ -58,7 +58,7 @@ Sou do tempo em que a gente tinha o controle do que via: seguia só os conhecido
 
 Para quem pilota, o cardápio é previsível: vídeos de acidentes, manobras perigosas, o ranking das motos mais roubadas do mês, todo tipo de imagem que propaga o caos do mundo motociclístico. Bastam alguns segundos de rolagem antes de dormir para o medo ganhar mais um degrau.
 
-Há também os irmãos que criam bom conteúdo sobre motociclismo, e eles existem e merecem ser seguidos. Mas mesmo assim é preciso cuidado. Na guerra por audiência e engajamento, até eles às vezes dizem ou mostram aquilo que você não precisava ver ou ouvir.
+Há também os irmãos que criam bom conteúdo sobre motociclismo. Os que oferecem cursos de pilotagem nas redes, por exemplo, são excelentes: ensinam postura, frenagem, leitura do trânsito, e vale muito a pena consumir o que eles produzem. Mas mesmo assim é preciso cuidado. O mecanismo do algoritmo tende a favorecer o conteúdo sensacionalista, porque é ele que prende a sua atenção. Na guerra por audiência e engajamento, até os bons às vezes dizem ou mostram aquilo que você não precisava ver ou ouvir.
 
 E a porta abre para os dois lados. Sempre me surpreende o que acontece quando posto uma foto da Tiger nas redes. As pessoas não veem uma moto bonita. Sentem medo, aflição, mandam "cuidado, hein". Não por causa de mim, mas por tudo o que já ouviram e assistiram sobre motociclistas no trânsito. O medo que entra pela tela delas volta para mim em forma de comentário.
 
