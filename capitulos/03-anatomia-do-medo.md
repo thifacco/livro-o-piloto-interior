@@ -66,7 +66,7 @@ Se insisto nesse cuidado com as redes, é para provocar a sua atenção. Para qu
 
 Só que a sua mente subconsciente está sendo moldada o tempo todo pelo que você pensa, acredita e vive repetidamente. E esse pensamento se forma com o que você assiste e ouve, prestando atenção ou não. O vídeo de acidente que passou rápido no feed também ficou.
 
-As redes viraram um lugar com cada vez mais iscas e cada vez menos conteúdo. Por isso, caro leitor, eu te convido a fazer a curadoria do que você deixa entrar. Escolha quem você segue como escolhe a sua faixa na estrada.
+As redes viraram um lugar com cada vez mais iscas e menos conteúdo. Por isso, caro leitor, eu te convido a fazer a curadoria do que você deixa entrar. Escolha quem você segue como escolhe a sua faixa na estrada.
 
 ## A terceira porta: o travesseiro
 
