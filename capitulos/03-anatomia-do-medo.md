@@ -24,7 +24,7 @@ Ele não pilotava.
 
 Não tem receita para o medo. Ele existe e pronto. Você pode ficar um tempo sem falar nele, sem pensar nele, e achar que ele foi embora. Não foi. Ele volta à tona sempre que aparece um gatilho.
 
-Depois do primeiro dia na Tiger, eu achei que o pior tinha passado. Tinha vencido o ônibus, o corredor, a Marginal. Mas o medo não mora na estrada. Ele mora na cabeça, e entra por portas que a gente nem percebe que deixou abertas.
+Depois do primeiro dia de pilotagem, eu achei que o pior tinha passado. Tinha vencido o ônibus, o corredor, a Marginal. Mas o medo não mora na estrada. Ele mora na cabeça, e entra por portas que a gente nem percebe que deixou abertas.
 
 Naquele ano eu aprendi a reconhecer três delas.
 
@@ -46,7 +46,7 @@ A vez que mais me marcou foi uma conversa com um amigo mecânico, motociclista t
 
 Era exatamente o meu caminho de volta para casa.
 
-No dia seguinte, eu estava de novo na rodoviária de Limeira, de madrugada, esperando o ônibus. A Tiger ficou três semanas na garagem, até eu conseguir me recompor daquele medo. E só voltei a montar nela depois de muito esforço mental.
+Não consegui montar na Tiger depois de ter ouvido aquilo. No dia seguinte, eu estava de novo na rodoviária de Limeira, de madrugada, esperando o ônibus. A Tiger ficou três semanas na garagem, até eu conseguir me recompor daquele medo. E só voltei a montar nela depois de muito esforço mental.
 
 Com o tempo percebi uma coisa: quase sempre, quem diz que moto é perigoso não pilota. Não é que o risco não exista. Ele existe, e é por isso que este livro fala tanto de pilotagem segura. Mas o medo de quem nunca subiu numa moto é um medo emprestado, feito de manchete, e não de estrada. E eu estava aceitando esse empréstimo de graça, em toda conversa.
 
@@ -84,7 +84,7 @@ Nesses momentos eu sinto que preciso reconstruir, de novo, a minha conexão com 
 
 Refleti muito sobre esses gatilhos e encontrei mais um hábito poderoso para enfrentá-los: a prática da afirmação.
 
-Há um capítulo no *Livro dos Jovens* [Tiago: qual capítulo?] em que o mestre Masaharu Taniguchi diz: **"Se mudar a frequência da sua mente com firme decisão de melhorar a sua vida, será possível adquirir fatos e coisas que desejamos."**
+No prefácio do *Livro dos Jovens*, o mestre Masaharu Taniguchi diz: **"Se mudar a frequência da sua mente com firme decisão de melhorar a sua vida, será possível adquirir fatos e coisas que desejamos."**
 
 Pois bem. A partir daí, quando alguém fazia o gesto do revólver e perguntava se eu não tinha medo, a minha resposta passou a ser uma só:
 

@@ -25,16 +25,17 @@ Fica como **Capítulo 3** e deixa de ser candidato a sair. Os capítulos 1 e 2 c
 - Ponte para o Capítulo 4: como o Capítulo 1 já conta que "Faça as pazes com a estrada" nasceu na janela do ônibus, aqui a ideia "ganha corpo" em vez de nascer de novo.
 - Acrescentei "quase 350 quilômetros por dia" e a lembrança do pai da escola, do feed e do travesseiro, para amarrar o fim ao começo do capítulo.
 
-## Checklist do que falta (25/11/2026)
+## Checklist do que falta (atualizado em 25/11/2026)
 **Fatos para confirmar**
-- [ ] Taniguchi: qual capítulo do *Livro dos Jovens* e uma redação única da citação (hoje o Cap. 3 e o Cap. 10 têm versões diferentes).
-- [ ] Alex Dias Ribeiro: conferir a frase exata no episódio 3 da 1ª temporada de *Brasil na Pista* (está entre aspas).
-- [ ] A volta para o ônibus foi mesmo "no dia seguinte" à conversa com o amigo mecânico?
-- [ ] "Cuidado, hein": trocar por um comentário real que você recebeu numa foto da Tiger, ou manter.
+- [x] Taniguchi: a frase está no prefácio do *Livro dos Jovens*, página 10, segundo parágrafo. Texto atualizado.
+- [ ] Taniguchi: redação única. Cap. 3 diz "se mudar a frequência da sua mente... adquirir fatos"; Cap. 10 diz "se conseguir mudar a sua mente... concretizar fatos". Qual é a do livro?
+- [x] Alex Dias Ribeiro: frase confirmada.
+- [x] Volta para o ônibus no dia seguinte: confirmada. Entrou a frase "Não consegui montar na Tiger depois de ter ouvido aquilo."
+- [x] "Cuidado, hein": mantido.
 
 **Decisões de texto**
-- [ ] Trocar "Depois do primeiro dia na Tiger" (início do capítulo) por "primeiro dia de pilotagem"?
-- [ ] Aprovar os acréscimos do editor: "Era exatamente o meu caminho de volta para casa"; "postura, frenagem, leitura do trânsito"; "A afirmação não apaga o medo; ela decide quem fala mais alto"; "medo emprestado, feito de manchete, e não de estrada".
+- [x] "Primeiro dia de pilotagem" também no início do capítulo.
+- [x] Acréscimos do editor aprovados.
 
 **Fechamento**
 - [ ] Leitura final do capítulo inteiro.
