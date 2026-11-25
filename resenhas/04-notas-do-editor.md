@@ -13,6 +13,6 @@ Virou o **Capítulo 13** e absorve o antigo "Pilotagem segura como filosofia", q
 ## Pontos para checar
 1. **"Falha de engenharia":** troquei por "armadilha". As motos leves não têm defeito de projeto; o problema é que a facilidade tira o medo rápido demais. Também tirei o "0 a 100 km/h em curto espaço", porque as grandes aceleram mais que as pequenas e um leitor motociclista ia contestar.
 2. ✅ *Decidido em 25/11: frase substituída por "Não é a cilindrada que ensina responsabilidade..." (respeito por qualquer moto).* **"Todo motociclista deveria pilotar uma 1000 cc por um ano":** é uma frase forte, mas lida ao pé da letra parece recomendar moto grande para iniciante, o que vai contra a segurança. Suavizei para "às vezes penso que..." e marquei no texto. Quer manter assim, cortar, ou reescrever como "deveria sentir o peso de uma máquina dessas"?
-3. **"Essa porra aqui":** mantive a fala do motociclista da Fat Boy porque é autêntica e dá força à cena. Se preferir um livro sem palavrão, troco por "É ser 100% isso aqui".
+3. ✅ *Decidido em 25/11: mantida.* **"Essa porra aqui":** mantive a fala do motociclista da Fat Boy porque é autêntica e dá força à cena. Se preferir um livro sem palavrão, troco por "É ser 100% isso aqui".
 4. **"Olhando acima do guidão":** tirei, porque não ficou claro o sentido. O que você quis dizer?
 5. **Reitwagen:** a informação é conhecida (Daimler e Maybach, 1885), mas vale você confirmar se gosta de citar.
