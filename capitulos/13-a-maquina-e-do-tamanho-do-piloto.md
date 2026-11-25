@@ -66,7 +66,7 @@ Toda semana eu emprestava os ouvidos enquanto ele enchia o tanque. Juro que tent
 
 Quem se acostuma a pilotar como louco, acelerando e freando o tempo todo, enfiando a moto em qualquer vão, com o queixo colado no painel, acha que aquele é o jeito certo de andar em duas rodas, e que perigo é emoção.
 
-Às vezes penso que todo motociclista deveria pilotar uma máquina pesada de mil cilindradas por pelo menos um ano, só para sentir o peso da responsabilidade que carrega sobre a própria vida e a vida de quem está ao redor no trânsito. [Tiago: veja a nota do editor sobre esta frase.]
+Não é a cilindrada que ensina responsabilidade. Mas quem já pilotou uma máquina de mais de 200 quilos sabe que ela não perdoa distração. Eu gostaria que todo motociclista pilotasse a sua moto, seja ela qual for, com o mesmo respeito que uma máquina dessas exige, pela própria vida e pela vida de quem está ao redor no trânsito.
 
 ## 100%
 
