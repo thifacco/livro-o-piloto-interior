@@ -15,4 +15,4 @@ Virou o **Capítulo 13** e absorve o antigo "Pilotagem segura como filosofia", q
 2. ✅ *Decidido em 25/11: frase substituída por "Não é a cilindrada que ensina responsabilidade..." (respeito por qualquer moto).* **"Todo motociclista deveria pilotar uma 1000 cc por um ano":** é uma frase forte, mas lida ao pé da letra parece recomendar moto grande para iniciante, o que vai contra a segurança. Suavizei para "às vezes penso que..." e marquei no texto. Quer manter assim, cortar, ou reescrever como "deveria sentir o peso de uma máquina dessas"?
 3. ✅ *Decidido em 25/11: mantida.* **"Essa porra aqui":** mantive a fala do motociclista da Fat Boy porque é autêntica e dá força à cena. Se preferir um livro sem palavrão, troco por "É ser 100% isso aqui".
 4. ✅ *Decidido em 25/11: texto do capítulo mantido sem a expressão.* **"Olhando acima do guidão":** tirei, porque não ficou claro o sentido. O que você quis dizer?
-5. **Reitwagen:** a informação é conhecida (Daimler e Maybach, 1885), mas vale você confirmar se gosta de citar.
+5. ✅ *Decidido em 25/11: mantida.* **Reitwagen:** a informação é conhecida (Daimler e Maybach, 1885), mas vale você confirmar se gosta de citar.
