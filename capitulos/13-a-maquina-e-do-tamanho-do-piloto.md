@@ -86,7 +86,9 @@ Bastaram essas palavras para eu entender. E me tornei um deles, com orgulho.
 
 A máquina é do tamanho do piloto.
 
-O motociclista pilota com a mente. Se a mente está preparada para grandes responsabilidades, a cilindrada acompanha naturalmente. O verdadeiro *big rider* tem consciência do perigo, sabe medir o risco e também sabe se divertir com segurança.
+O motociclista pilota com a mente. A máquina potente, feita para alta velocidade, chega até você quando a sua mente está preparada para ela. Existe uma hora certa para isso acontecer. Fora dessa hora, a máquina não suporta pertencer a uma mente que não a domina.
+
+O verdadeiro *big rider* tem consciência do perigo, sabe medir o risco e também sabe se divertir com segurança.
 
 Tenho orgulho de dizer que sou um deles.
 
