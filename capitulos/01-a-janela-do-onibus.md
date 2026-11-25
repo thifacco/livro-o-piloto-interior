@@ -1,9 +1,5 @@
 # Capítulo 1: A janela do ônibus
 
-> Rascunho 0.1 do editor, feito a partir da Resenha 01. As frases são do Tiago sempre que possível; o trabalho aqui foi de ordem, ritmo e revisão. Trechos entre colchetes são lacunas para o Tiago preencher.
-
----
-
 Toda terça e toda quarta-feira, religiosamente, eu atravessava 173 quilômetros de janela fechada.
 
 O ônibus saía de Limeira às 5h40, ainda de madrugada, e me deixava na Rodoviária do Tietê, de onde eu seguia até o Jabaquara. Eu era engenheiro de software recém-contratado pelo maior banco da América Latina, em regime híbrido, desde 23 de julho de 2025. Uma conquista. E, ao mesmo tempo, uma rotina que começou a pesar já nas primeiras semanas. Foram dois meses assim.
@@ -26,7 +22,7 @@ Eram perguntas boas, mas não bastavam. O medo continuava ali, sentado ao meu la
 
 ## Um domingo, 7h15 da manhã
 
-Foi três anos antes. Um domingo, por volta das 7h15, saí de casa para pedalar de mountain bike pela zona rural perto de casa. Não tinha rodado nem um quilômetro quando cruzei com dois homens numa CG Titan 160. Armados.
+Foi três anos antes, no domingo 24 de julho de 2022. Por volta das 7h15, saí de casa para pedalar de mountain bike pela zona rural perto de casa. Não tinha rodado nem um quilômetro quando cruzei com dois homens numa CG Titan 160. Armados.
 
 Quando um ser humano tem um revólver apontado para o corpo, milhões de anos de evolução regridem num instante, e só restam três respostas possíveis: correr, lutar ou paralisar.
 
@@ -54,7 +50,7 @@ Desliguei. E comecei uma paranoia: apagar todos os meus dados da internet, trava
 
 Os dias passaram, o assunto perdeu força, e eu concluí que, para esquecer aquele trauma, precisava nunca mais falar sobre ele.
 
-Estou quebrando essa promessa agora, três anos depois. Acredito que por um bem maior.
+Estou quebrando essa promessa agora, mais de quatro anos depois. Acredito que por um bem maior.
 
 ## A luz, na Marginal Tietê
 

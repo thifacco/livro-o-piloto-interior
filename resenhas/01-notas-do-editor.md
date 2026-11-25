@@ -14,11 +14,17 @@
 - Revisão de português: paralisar (com s), de novo, adivinha, zona rural, motociclista, Tiger.
 - Acrescentei uma "lição para levar" ao fim, seguindo o formato proposto na estrutura.
 
-## O que falta (perguntas para o Tiago)
-1. **A cena da decisão.** A resenha termina com a revelação, mas não com o primeiro dia de moto. Quando foi? Como foi tirar a Tiger da garagem?
-2. ~~Horário de saída do ônibus e distância Limeira–Jabaquara~~ Respondido em 09/10: 5h40 e 173 km, já no rascunho.
-3. Segurança: o livro vai ser público. Você se sente confortável citando Limeira e o Jabaquara? Eu manteria, mas a decisão é sua.
-4. O "jailbreak" no texto original: você quis dizer travar/bloquear acessos (o que usei), certo?
+## O que faltava (fechado em 25/11/2026)
+1. ✅ **A cena da decisão:** resolvida pelo Capítulo 2 ("O primeiro dia"). O Cap. 1 termina em "tirar a Tiger da garagem" e leva direto a ele.
+2. ✅ **Horário e distância:** 5h40 e 173 km (respondido em 09/10).
+3. ✅ **Segurança:** Limeira e Jabaquara mantidos.
+4. ✅ **"Jailbreak":** era travar/bloquear acessos, como ficou no texto.
+5. ✅ **Data do assalto:** domingo, 24 de julho de 2022, por volta das 7h15. No texto: "três anos antes" (a partir de 2025) e "mais de quatro anos depois" (a partir de hoje).
+6. ✅ **"O maior banco da América Latina":** mantido, é marca da história.
+7. ✅ **A esposa:** fato real, cena mantida como está.
+8. ✅ **"Milhões de anos de evolução":** mantido sem o "dez".
+9. ✅ **Lição para levar:** aprovada.
+10. ✅ **Fechamento:** aviso de rascunho removido do topo do capítulo; capítulo sem pendências.
 
 ## Onde isso entra na estrutura
-Vira o **Capítulo 1** (substitui "Prólogo" e "Por que eu precisava fazer esse trajeto"). "Anatomia do medo" fica parcialmente absorvido aqui. Os dois capítulos que o Tiago nomeou entram na Parte II.
+Vira o **Capítulo 1** (substitui "Prólogo" e "Por que eu precisava fazer esse trajeto"). "Anatomia do medo" depois ganhou capítulo próprio (Cap. 3, Resenha 05). Os dois capítulos que o Tiago nomeou entram na Parte II.
