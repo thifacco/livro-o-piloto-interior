@@ -14,7 +14,7 @@ O mestre Masaharu Taniguchi ensina, no *Livro dos Jovens* [Tiago: capítulo], qu
 
 Isso faz muito sentido, principalmente para quem acredita na proteção divina, aquela que vem de dentro de nós. Com a mente calma e em harmonia, o caminho se abre. Mas, se a mente estiver obscura, tomada por sentimentos ruins, é preciso muito cuidado. O estado mental tem o poder de atrair vibrações da mesma natureza. Pensamentos bons atraem coisas boas. Pensamentos ruins atraem coisas ruins. Quando tomamos consciência disso, fica mais fácil prever como serão as nossas próprias ações.
 
-O mestre diz ainda: **"se conseguir mudar a sua mente com a firme decisão de melhorar a sua vida, será possível concretizar fatos e coisas que desejamos"**.
+E volto àquela frase do prefácio, que já citei no Capítulo 3: **"Se mudarmos a frequência de nossa mente com a firme decisão de melhorarmos a nossa vida, será possível concretizarmos fatos e coisas que desejamos."**
 
 E, para isso, ele nos estimula a usar o poder da visualização. Pela criatividade e pela imaginação, o ser humano é capaz de enxergar com os olhos da mente.
 

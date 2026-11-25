@@ -28,7 +28,7 @@ Fica como **Capítulo 3** e deixa de ser candidato a sair. Os capítulos 1 e 2 c
 ## Checklist do que falta (atualizado em 25/11/2026)
 **Fatos para confirmar**
 - [x] Taniguchi: a frase está no prefácio do *Livro dos Jovens*, página 10, segundo parágrafo. Texto atualizado.
-- [ ] Taniguchi: redação única. Cap. 3 diz "se mudar a frequência da sua mente... adquirir fatos"; Cap. 10 diz "se conseguir mudar a sua mente... concretizar fatos". Qual é a do livro?
+- [x] Taniguchi: redação conferida no livro (25/11) e aplicada nos Caps. 3 e 10: "Se mudarmos a frequência de nossa mente com a firme decisão de melhorarmos a nossa vida, será possível concretizarmos fatos e coisas que desejamos."
 - [x] Alex Dias Ribeiro: frase confirmada.
 - [x] Volta para o ônibus no dia seguinte: confirmada. Entrou a frase "Não consegui montar na Tiger depois de ter ouvido aquilo."
 - [x] "Cuidado, hein": mantido.

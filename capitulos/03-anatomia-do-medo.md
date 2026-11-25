@@ -84,7 +84,7 @@ Nesses momentos eu sinto que preciso reconstruir, de novo, a minha conexão com 
 
 Refleti muito sobre esses gatilhos e encontrei mais um hábito poderoso para enfrentá-los: a prática da afirmação.
 
-No prefácio do *Livro dos Jovens*, o mestre Masaharu Taniguchi diz: **"Se mudar a frequência da sua mente com firme decisão de melhorar a sua vida, será possível adquirir fatos e coisas que desejamos."**
+No prefácio do *Livro dos Jovens*, o mestre Masaharu Taniguchi diz: **"Se mudarmos a frequência de nossa mente com a firme decisão de melhorarmos a nossa vida, será possível concretizarmos fatos e coisas que desejamos."**
 
 Pois bem. A partir daí, quando alguém fazia o gesto do revólver e perguntava se eu não tinha medo, a minha resposta passou a ser uma só:
 
