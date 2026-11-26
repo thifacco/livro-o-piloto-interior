@@ -1,18 +1,14 @@
 # Capítulo 2: O primeiro dia
 
-> Rascunho 0.1 do editor, feito a partir da Resenha 02. As frases são do Tiago sempre que possível; o trabalho aqui foi de ordem, ritmo e revisão. Trechos entre colchetes são lacunas para o Tiago preencher.
-
----
-
 Como toda primeira vez, não foi tão bom quanto eu tinha imaginado. Mas, depois que decidi, não consegui mais voltar atrás.
 
-Era 15 de setembro de 2025. Uma segunda-feira, fora dos meus dias presenciais. Mas era dia de evento de fim de semestre na empresa, e eu decidi que aquela seria a estreia.
+Era 15 de setembro de 2025. Uma segunda-feira, fora dos meus dias presenciais. Mas era dia de evento de fim de trimestre na empresa, e eu decidi que aquela seria a estreia.
 
 Deixei tudo pronto na noite anterior: a roupa e a bota de pilotagem, as luvas, a mochila do trabalho com o notebook e uma muda de roupa seca, caso chovesse. São Paulo é a famosa terra da garoa.
 
 Acordei bem cedo. Às 6h15, liguei a moto e, antes de sair, fiz uma oração rápida:
 
-*Eu estou em segurança. Eu estou seguro. Somente pessoas boas chegam perto de mim. Eu só atraio bons olhares.*
+*Eu estou em segurança. Eu estou seguro. Somente pessoas boas chegam perto de mim. Eu só atraio bons olhados.*
 
 ## Uhuuul dentro do capacete
 
@@ -46,13 +42,13 @@ Então reforcei os meus pensamentos:
 
 Sobrevivi à primeira viagem e cheguei à empresa.
 
-Era dia de festa: encerramento de semestre, com palestra do Michel Alcoforado. Com sorte, ganhei o sorteio do livro dele, com autógrafo e uma foto ao lado do autor. Depois, trabalho normal, e no almoço a resenha com os colegas, eu animado para contar a minha experiência.
+Era dia de festa: encerramento de trimestre, com palestra do Michel Alcoforado. Com sorte, ganhei o sorteio do livro dele, com autógrafo e uma foto ao lado do autor. Depois, trabalho normal, e no almoço a resenha com os colegas, eu animado para contar a minha experiência.
 
 ## A Sinfonia de Beethoven
 
 No fim do dia, montei de novo na Tiger e fui enfrentar a Marginal Pinheiros no horário de pico. Exatamente às 18h15.
 
-Pela legislação de trânsito atual, motos não andam na pista expressa, só na local. E ali o trânsito é insano. O corredor entre os carros vira uma fila intensa, moto colada em moto, quase sem espaço para manobra. As mãos formigam. O câmbio e o motor pedem velocidade, sem sucesso. E ainda é preciso prever, pelo movimento dos carros, quem vai cruzar de faixa e travar a fila, fazendo todo mundo parar ao mesmo tempo. Buzina de sobra, barulheira, palavrão.
+Nas marginais, motos não podem andar na pista expressa, só na local. E ali o trânsito é insano. O corredor entre os carros vira uma fila intensa, moto colada em moto, quase sem espaço para manobra. As mãos formigam. O câmbio e o motor pedem velocidade, sem sucesso. E ainda é preciso prever, pelo movimento dos carros, quem vai cruzar de faixa e travar a fila, fazendo todo mundo parar ao mesmo tempo. Buzina de sobra, barulheira, palavrão.
 
 Mas, no final, ali perto do Villa-Lobos, a paz volta a reinar.
 
